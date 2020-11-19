@@ -7,12 +7,12 @@ table {
 th, td {
     border: 2px solid;
 }
-.aright {
+.alignRight {
     text-align: right;
 }
-.aleft {
+.alignLeft {
     text-align: left;
 }
-.acenter {
+.alignCenter {
     text-align: center;
 }
